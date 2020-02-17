@@ -1,0 +1,16 @@
+test2_coil1	0.5	3
+test3A_coil1	7.5	11.5
+test3B_coil1	7.5	11.5
+test4_coil1	7.5	11.5
+test2_coil2	7.5	11.5
+test3A_coil2	0.5	3
+test3B_coil2	0.5	3
+test4_coil2	0.5	3
+test2_spool	2.3	2.9
+test3A_spool	2.3	2.9
+test3B_spool	2.3	2.9
+test4_spool	4.5	5.5
+pveo_12a	30	36
+pveo_12b	30	36
+pveo_24a	121	137
+pveo_24b	121	137

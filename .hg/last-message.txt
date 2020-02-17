@@ -1,0 +1,2 @@
+checked and changed LED testing routines that had to be changed due to blinking of S7 modules if LVDT is dead center
+Added retest delay in config file, repaired min / max detection (min is used now)
